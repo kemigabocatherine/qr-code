@@ -10,16 +10,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ### Screenshot
 
 ![Screenshot](image.png)
 
 ### Links
 
-- Solution URL: [](https://github.com/kemigabocatherine/qr-code)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+<!-- - Solution URL: [SolutionURL](https://github.com/kemigabocatherine/qr-code) -->
+- Live Site URL: [Live Site](https://your-live-site-url.com)
 
 ## My process
 
