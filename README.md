@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 <!-- - Solution URL: [SolutionURL](https://github.com/kemigabocatherine/qr-code) -->
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://frem-qr-code.netlify.app/)
 
 ## My process
 
