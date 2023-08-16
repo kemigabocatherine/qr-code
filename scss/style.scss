@@ -26,14 +26,16 @@ body {
 }
 
 .main {
-  max-width: 350px;
+  max-width: 290px;
   height: auto;
   background-color: $White;
   padding: 12px;
   border: none;
   border-radius: $Border-radius;
-  margin: 80px;
-  position: fixed;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.12);
 
   .image {
@@ -55,7 +57,7 @@ body {
 
   .head {
     font-weight: map-get($font-weight, bold);
-    font-size: 19.5px;
+    font-size: 11px;
     color: $Dark-blue;
   }
 
